@@ -26,14 +26,15 @@ const Header = () => {
             </Link>
           </div>
         </div>
-        {/* <div className="flex items-center">
-          <button
+        <div className="flex items-center">
+          {/* <button
             onClick={openForm}
             className="bg-[#FF4820] sm:px-5 sm:py-3 xs:text-[12px] px-8 py-4 font-medium rounded"
           >
             Request Early Access
-          </button>
-        </div> */}
+          </button> */}
+          <img src="/images/cal2.png" alt="UC Berkeley" width={'80px'} />
+        </div>
       </div>
     </Container>
   );

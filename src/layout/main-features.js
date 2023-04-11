@@ -48,6 +48,7 @@ const MainFeatures = () => {
               We craft killer, brand-building posts that’ll captivate your audience and make your brand stand out. Believe us, achieving that modern online presence has never been this effortless. For new brands, we tap into our startup experience and 3rd party data to craft a marketing brand strategy and image that’ll take them to the top.
 
               </p>
+              
             </div>
           </div>
         </div>
