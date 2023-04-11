@@ -17,7 +17,7 @@ const MainFeatures = () => {
 
         <div className="mt-10 relative">
           <h1 className="max-w-[550px] sm:text-[28px] text-[34px] font-bold heading-clip">
-            Unleash Your Writing Potential with Volute.AI's Dynamic Features
+          Create a Path for Consumer Experience Success​
           </h1>
 
           <div className="grid sm:grid-cols-1 sm:gap-y-10 grid-cols-3 gap-x-5 mt-10">
