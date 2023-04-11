@@ -5,11 +5,11 @@ const SecondaryFeautes = () => {
     <Container>
       <div className="mb-20 flex md:flex-col  item-start justify-between">
         <div>
-          <h1 className="max-w-[450px] text-[42px] font-bold heading-clip">
-            IBDP Made Easy: Learn Smarter, Not Harder with Volute.AI
+          <h1 className="max-w-[500px] text-[42px] font-bold heading-clip">
+          Strategize, build, and design transformative, human-centric experiences.
           </h1>
           <p className="mt-5text-[#FF8A71]">
-            World's First AI Platform for Tailored IBDP Learning
+          Work with us
           </p>
         </div>
 

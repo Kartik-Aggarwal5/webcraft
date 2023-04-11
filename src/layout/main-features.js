@@ -9,13 +9,9 @@ const MainFeatures = () => {
       >
         <div className="w-[40px] h-[3px] bg-linear-1"></div>
         <div className="flex md:flex-col justify-between items-start mt-3">
-          <p className="font-bold text-[24px]">What is Volute.AI</p>
+          <p className="font-bold text-[24px]">What is Webcraft</p>
           <p className="max-w-[730px] text-[#81AFDD] font-medium">
-            Volute.AI is an AI-powered platform that offers personalized
-            academic writing support for various subjects, including physics,
-            chemistry, biology, english, TOK and more. Get 24/7 chatbot
-            assistance to streamline your academic success and achieve your full
-            potential.
+          We, at Webcraft, a premium web design agency, are passionate about transparency, reliability, trust, and outstanding customer care – we aren’t happy with our creation until you are. We take tremendous care of your needs. We understand your business goals and deliver them according to your business values.
           </p>
         </div>
 

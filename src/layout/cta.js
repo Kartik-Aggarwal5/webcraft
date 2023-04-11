@@ -8,10 +8,10 @@ const Cta = () => {
       <div className="flex sm:flex-col sm:text-center w-full items-center justify-between py-10 px-10 bg-linear-2 rounded-lg text-black">
         <div>
           <p className="text-[12px] font-medium">
-            Request Early Access to Get Started
+          Ready to get started?
           </p>
           <p className="text-[24px] font-bold">
-            Register today & start exploring the endless possiblities.
+          Request a consultation with us, today.
           </p>
         </div>
 

@@ -12,11 +12,14 @@ const Footer = () => {
     >
       <div className="w-full px-5 flex flex-col items-center justify-center text-center">
         <p className="text-[52px] sm:text-[42px] xs:text-[36px] sm:leading-tight font-bold max-w-[900px] heading-clip leading-[75px]">
-          Ready to Transform Your Writing Experience with Volute.AI?
+        We're looking for TALENT & DRIVE. Let’s make tech that matters
+
         </p>
-        <button onClick={openForm} className="border mt-5 px-5 py-5">
-          Request Early Access
+        <a href="mailto:info@webcraft.works">
+        <button  className="border mt-5 px-5 py-5">
+        Send Your Resume
         </button>
+        </a>
       </div>
       <div className="w-full mt-32">
         <Container>

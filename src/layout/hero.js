@@ -10,13 +10,10 @@ const Hero = () => {
       <div className="mt-10 flex flex-col items-center text-center">
         <div className="max-w-[950px] w-full flex flex-col items-center">
           <h1 className="text-[62px] sm:text-[48px] xs:text-[36px] xs:leading-tight font-extrabold leading-[75px] heading-clip">
-            Say Goodbye to Writing Woes with Volute's Innovative Assistance
+          We Craft Exceptional Digital Experiences
           </h1>
           <p className="text-[#81AFDD] sm:text-[18px] xs:text-[14px] max-w-[660px] text-[20px] mt-5">
-            Volute.AI is an AI-powered platform designed to streamline your
-            academic success. From writing sample IAs to providing personalized
-            writing assistance, Volute is your go-to companion for academic
-            excellence.
+          Webcraft is a collective of designers, developers, strategists, and content creators from UC Berkeley. We create websites for those who demand nothing less than world-class design.
           </p>
 
           <form
