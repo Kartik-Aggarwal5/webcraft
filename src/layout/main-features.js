@@ -24,35 +24,29 @@ const MainFeatures = () => {
             <div>
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <p className="mt-5 text-[20px] font-bold mb-14">
-                Personalized Writing Assistance
+              Website Development
               </p>
               <p className=" text-[#81AFDD] font-medium">
-                Volute.AI's 24/7 chatbot provides personalized writing
-                assistance for a variety of academic tasks, including writing
-                sample IAs, TOK exhibitions, subject notes and more.
+              Your website is the front door to your company, and an essential building block for the success of your business. How it looks, what it says, and how it makes your viewers feel will go a long way towards determining whether they’re willing to stick around and explore, or move on to one of your competitors.
               </p>
             </div>
             <div>
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <p className="mt-5 text-[20px] font-bold mb-14">
-                Dedicated Prompts and Datasets
+              Brand Strategy
               </p>
               <p className=" text-[#81AFDD] font-medium">
-                Volute.AI's platform includes dedicated prompts and datasets for
-                each subject, ensuring the reliability and accuracy of the
-                platform's writing assistance.
+              Your brand is what sets you apart in your landscape, for better or worse. Let’s aim for better. When it comes to existing brands, we gather facts in the form of thoughts, opinions, and feedback from your best clients and customers to create an image and message that truly resonates with them.
               </p>
             </div>
             <div>
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <p className="mt-5 text-[20px] font-bold mb-14">
-                Multiple Subject Support
+              Social Media
               </p>
               <p className=" text-[#81AFDD] font-medium">
-                Volute.AI offers support for a range of subjects, including
-                physics, chemistry, biology, english, TOK and more enabling
-                students to streamline their academic success in multiple
-                subject areas.
+              We craft killer, brand-building posts that’ll captivate your audience and make your brand stand out. Believe us, achieving that modern online presence has never been this effortless. For new brands, we tap into our startup experience and 3rd party data to craft a marketing brand strategy and image that’ll take them to the top.
+
               </p>
             </div>
           </div>

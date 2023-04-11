@@ -3,13 +3,13 @@ import Container from "@/components/container";
 const SecondaryFeautes = () => {
   return (
     <Container>
-      <div className="mb-20 flex md:flex-col  item-start justify-between">
+      <div id="services" className="mb-20 flex md:flex-col  item-start justify-between">
         <div>
           <h1 className="max-w-[500px] text-[42px] font-bold heading-clip">
           Strategize, build, and design transformative, human-centric experiences.
           </h1>
           <p className="mt-5text-[#FF8A71]">
-          Work with us
+          We create tech that matters
           </p>
         </div>
 
