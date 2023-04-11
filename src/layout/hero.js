@@ -7,7 +7,7 @@ const Hero = () => {
 
   return (
     <Container>
-      <div className="mt-10 flex flex-col items-center text-center">
+      <div className="mt-1 flex flex-col items-center text-center">
         <div className="max-w-[950px] w-full flex flex-col items-center">
           <h1 className="text-[62px] sm:text-[48px] xs:text-[36px] xs:leading-tight font-extrabold leading-[75px] heading-clip">
           We Craft Exceptional Digital Experiences

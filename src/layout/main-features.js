@@ -33,7 +33,7 @@ const MainFeatures = () => {
             <div>
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <p className="mt-5 text-[20px] font-bold mb-14">
-              Brand Strategy
+              Brand Strategy + Design
               </p>
               <p className=" text-[#81AFDD] font-medium">
               Your brand is what sets you apart in your landscape, for better or worse. Let’s aim for better. When it comes to existing brands, we gather facts in the form of thoughts, opinions, and feedback from your best clients and customers to create an image and message that truly resonates with them.

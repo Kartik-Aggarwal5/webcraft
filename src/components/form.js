@@ -1,10 +1,11 @@
 import useApp from "@/context/app";
-import { Dialog, TextField } from "@mui/material";
+import { Dialog, TextField, Select, InputLabel, MenuItem } from "@mui/material";
 import axios from "axios";
 import React, { useState } from "react";
 
 const Form = () => {
-  const { formOpen, closeForm, email, setEmail, name, setName } = useApp();
+  const { formOpen, closeForm, email, setEmail, name, setName} = useApp();
+  const [service, setService] = useState('service');
 
   const [loading, setLoading] = useState(false);
 
@@ -16,15 +17,17 @@ const Form = () => {
 
     setLoading(true);
     try {
-      await axios.post(`https://api.apispreadsheets.com/data/${sheet_id}/`, {
+      await axios.post(`https://sheetdb.io/api/v1/6dt5nulatrd5t`, {
         Name: name,
-        Time: new Date().toLocaleString(),
         Email: email,
+        Time: new Date().toLocaleString(),
+        Service: service
       });
       alert("Thank you for your interest. We will get back to you soon.");
       setLoading(false);
       setEmail("");
       setName("");
+      setService('service');
       closeForm();
     } catch (error) {
       setLoading(false);
@@ -53,6 +56,19 @@ const Form = () => {
             fullWidth
             label="Email"
           />
+        </div>
+
+        <div className="mt-5">
+        <InputLabel>Service Needed</InputLabel>
+        <Select
+          label="Service"
+          value={service}
+          onChange={(e) => setService(e.target.value)}
+        >
+          <MenuItem value={"Website Development"}>Website Development</MenuItem>
+          <MenuItem value={"Branding/Design"}>Branding/Design</MenuItem>
+          <MenuItem value={"Social Media"}>Social Media</MenuItem>
+        </Select>
         </div>
 
         <div className="flex items-center justify-end ">
