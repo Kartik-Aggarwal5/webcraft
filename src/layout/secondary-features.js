@@ -26,7 +26,7 @@ const SecondaryFeautes = () => {
             </p>
             </div>
 
-            <div className="max-w-[180px]">
+            <div className="max-w-[180px] ml-16">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <a href="https://www.multi-talented.com/" target="_blank" className="text-[18px] font-bold mt-1">
                 Multi Talented

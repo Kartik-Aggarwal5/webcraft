@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <Container>
-      <div id="home" className="py-10 flex items-center justify-between">
+      <div id="home" className="py-10 flex items-center justify-between mt-3">
         <div className="flex items-center">
           <NextLink href="/">
             <h3 className="font-extrabold text-2xl">Webcraft</h3>
@@ -16,7 +16,7 @@ const Header = () => {
           <div className="flex items-center ml-14 md:hidden">
 
             <Link to="about" smooth={true} offset={-70} duration={500}>
-              <p className="mx-8 cursor-pointer">About Webcraft</p>
+              <p className="mx-8 cursor-pointer">About</p>
             </Link>
             <Link to="services" smooth={true} offset={-70} duration={500}>
               <p className="cursor-pointer">Services</p>
