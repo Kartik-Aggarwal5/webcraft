@@ -13,57 +13,97 @@ const SecondaryFeautes = () => {
           </p>
         </div>
 
-        <div className="md:mt-10">
+        <div className="md:mt-10 pr-24">        
+          
           <div className="flex sm:flex-col items-start justify-between mb-10">
+            <div className="max-w-[245px] ">
+              <div className="w-[40px] h-[3px] bg-linear-1"></div>
+              <a href="https://circularforzero.org/" target="_blank" className="text-[18px] font-bold mt-1">
+                Circular For Zero
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              B2B SaaS
+            </p>
+            </div>
+
             <div className="max-w-[180px]">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
-              <p className="text-[18px] font-bold mt-1">
-                Saves your time and effort
-              </p>
-            </div>
-            <p className="max-w-[330px] text-[14px] text-[#81AFDD]">
-              With Volute.AI's customized writing samples and assistance,
-              students can save time and reduce stress on completing assignments
-              and IAs.
+              <a href="https://www.multi-talented.com/" target="_blank" className="text-[18px] font-bold mt-1">
+                Multi Talented
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              Education
             </p>
+            </div>
           </div>
-          <div className="flex sm:flex-col items-start mb-10">
-            <div className="mr-20 max-w-[180px]">
+          
+          <div className="flex sm:flex-col items-start justify-between mb-10">
+            <div className="max-w-[245px] ">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
-              <p className="text-[18px] font-bold mt-1">
-                Improve your Writing Skills
-              </p>
-            </div>
-            <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
-              Volute.AI provides personalized feedback and writing resources,
-              which can help students improve their writing skills and become
-              better writers over time.
+              <a href="http://tedxyouthjpis.com/" target="_blank" className="text-[18px] font-bold mt-1">
+                TEDx Youth
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              Events
             </p>
-          </div>
-          <div className="flex sm:flex-col items-start mb-10">
-            <div className="mr-20 max-w-[180px]">
+            </div>
+
+            <div className="max-w-[180px]">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
-              <p className="text-[18px] font-bold mt-1">
-                Reduce Academic Pressure
-              </p>
-            </div>
-            <p className="max-w-[330px] text-[14px] text-[#81AFDD]">
-              By providing guidance and support, Volute.AI helps students to
-              manage academic pressure and succeed in their studies.
+              <a href="https://uraib.in/" target="_blank" className="text-[18px] font-bold mt-1">
+                Uraib
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              D2C E-commerce
             </p>
+            </div>
           </div>
-          <div className="flex sm:flex-col items-start mb-10">
-            <div className="mr-20 max-w-[180px] w-full">
+
+          <div className="flex sm:flex-col items-start justify-between mb-10">
+            <div className="max-w-[245px] ">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
-              <p className="text-[18px] font-bold mt-1">
-                Clear Doubts Instantly
+              <a href="https://convex-application-portal.vercel.app/" target="_blank" className="text-[18px] font-bold mt-1">
+                Convex Portal
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              Application Dashboard using Convex
+            </p>
+            </div>
+
+            <div className="max-w-[180px]">
+              <div className="w-[40px] h-[3px] bg-linear-1"></div>
+                <a href="https://wigglecops.vercel.app/" target="_blank" className="text-[18px] font-bold mt-1">
+                  Wiggle Cops
+                </a>
+                <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+                NGO Services
               </p>
             </div>
-            <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
-              Volute.AI's chatbot feature allows students to receive instant
-              responses to their subject-related doubts.
-            </p>
           </div>
+
+          <div className="flex sm:flex-col items-start justify-between mb-10">
+            <div className="max-w-[245px] ">
+              <div className="w-[40px] h-[3px] bg-linear-1"></div>
+              <a href="https://thcindia.in/" target="_blank" className="text-[18px] font-bold mt-1">
+                Traditional Handicrafts Centre
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              B2B Manufacturing
+            </p>
+            </div>
+
+            <div className="max-w-[180px]">
+              <div className="w-[40px] h-[3px] bg-linear-1"></div>
+              <a href="https://umangboards.com/" target="_blank" className="text-[18px] font-bold mt-1">
+                Umang Boards
+              </a>
+              <p className="max-w-[330px] w-full text-[14px] text-[#81AFDD]">
+              B2B Manufacturing
+            </p>
+            </div>
+          </div>
+          
+          
         </div>
       </div>
     </Container>

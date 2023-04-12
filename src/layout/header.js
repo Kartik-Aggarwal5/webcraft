@@ -33,7 +33,7 @@ const Header = () => {
           >
             Request Early Access
           </button> */}
-          <img src="/images/cal2.png" alt="UC Berkeley" width={'80px'} />
+          {/* <img src="/images/cal2.png" alt="UC Berkeley" width={'80px'} /> */}
         </div>
       </div>
     </Container>
