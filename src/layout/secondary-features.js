@@ -13,9 +13,9 @@ const SecondaryFeautes = () => {
           </p>
         </div>
 
-        <div className="md:mt-10 pr-24">        
+        <div className="md:mt-10">        
           
-          <div className="flex sm:flex-col items-start justify-between mb-10">
+          <div className="flex sm:flex-col items-start justify-between mb-10 pr-24">
             <div className="max-w-[245px] ">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <a href="https://circularforzero.org/" target="_blank" className="text-[18px] font-bold mt-1">
@@ -37,7 +37,7 @@ const SecondaryFeautes = () => {
             </div>
           </div>
           
-          <div className="flex sm:flex-col items-start justify-between mb-10">
+          <div className="flex sm:flex-col items-start justify-between mb-10 pr-24">
             <div className="max-w-[245px] ">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <a href="http://tedxyouthjpis.com/" target="_blank" className="text-[18px] font-bold mt-1">
@@ -49,7 +49,7 @@ const SecondaryFeautes = () => {
             </div>
 
             <div className="max-w-[180px]">
-              <div className="w-[40px] h-[3px] bg-linear-1"></div>
+              <div className="w-[40px] h-[3px] bg-linear-1 mr-[85px]"></div>
               <a href="https://uraib.in/" target="_blank" className="text-[18px] font-bold mt-1">
                 Uraib
               </a>
@@ -59,7 +59,7 @@ const SecondaryFeautes = () => {
             </div>
           </div>
 
-          <div className="flex sm:flex-col items-start justify-between mb-10">
+          <div className="flex sm:flex-col items-start justify-between mb-10 pr-24">
             <div className="max-w-[245px] ">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <a href="https://convex-application-portal.vercel.app/" target="_blank" className="text-[18px] font-bold mt-1">
@@ -71,7 +71,7 @@ const SecondaryFeautes = () => {
             </div>
 
             <div className="max-w-[180px]">
-              <div className="w-[40px] h-[3px] bg-linear-1"></div>
+              <div className="w-[40px] h-[3px] bg-linear-1  mr-[85px]"></div>
                 <a href="https://wigglecops.vercel.app/" target="_blank" className="text-[18px] font-bold mt-1">
                   Wiggle Cops
                 </a>
@@ -81,7 +81,7 @@ const SecondaryFeautes = () => {
             </div>
           </div>
 
-          <div className="flex sm:flex-col items-start justify-between mb-10">
+          <div className="flex sm:flex-col items-start justify-between mb-10 pr-[85px]">
             <div className="max-w-[245px] ">
               <div className="w-[40px] h-[3px] bg-linear-1"></div>
               <a href="https://thcindia.in/" target="_blank" className="text-[18px] font-bold mt-1">
